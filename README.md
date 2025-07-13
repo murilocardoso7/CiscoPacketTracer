@@ -37,8 +37,3 @@ Simulação de cenários realistas de segmentação de serviços.
 
 Compreensão de endereçamento IP privado conforme RFC 1918.
 
-## 🧪 Ferramentas
-Cisco Packet Tracer
-
-CLI de roteadores e switches Cisco (modo simulado)
-
