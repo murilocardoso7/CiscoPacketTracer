@@ -26,8 +26,9 @@ access-list 110 permit icmp 172.20.20.0 0.0.0.255 host 10.10.10.2
 
 interface fastethernet0/2
 ip access-group 110 out
+```
 
-✅ Habilidades Aplicadas
+## ✅ Habilidades Aplicadas
 Configuração de ACLs padrão e estendidas em roteadores Cisco.
 
 Aplicação de filtros de tráfego com base em protocolos (TCP, ICMP) e portas (HTTP).
@@ -36,11 +37,11 @@ Simulação de cenários realistas de segmentação de serviços.
 
 Compreensão de endereçamento IP privado conforme RFC 1918.
 
-🧪 Ferramentas
+## 🧪 Ferramentas
 Cisco Packet Tracer
 
 CLI de roteadores e switches Cisco (modo simulado)
 
-🔒 Observações
+## 🔒 Observações
 Todos os endereços IP utilizados neste projeto são reservados para uso privado (RFC 1918) e utilizados exclusivamente em ambiente de simulação, sem qualquer relação com redes reais.
 
