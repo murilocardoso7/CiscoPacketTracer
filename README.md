@@ -42,6 +42,3 @@ Cisco Packet Tracer
 
 CLI de roteadores e switches Cisco (modo simulado)
 
-## 🔒 Observações
-Todos os endereços IP utilizados neste projeto são reservados para uso privado (RFC 1918) e utilizados exclusivamente em ambiente de simulação, sem qualquer relação com redes reais.
-
